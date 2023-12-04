@@ -1,2 +1,2 @@
 # Links
-A Django site im making to display links i think are cool
+This is a Django site im making to dynamically display links to webpages i think are cool. This is mainly for personal practice.
