@@ -4,6 +4,9 @@ body {
 h1{
     color: #ffcc66;
 }
+p{
+    color:antiquewhite
+}
 a:link {
     color: #4d88ff;
     background-color: transparent;
